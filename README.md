@@ -1,7 +1,6 @@
 # 💫 About Me :
 Currently working on Shot Lab 🥏 an app for Disc Golfers to track their stats and improve their game in a way that makes
-sense. In addition, I work at General Dynamics: Mission Systems as a Software Engineer helping to make our world a safer 
-place.
+sense. In addition, I work at Alchemy RPG as a Software Engineer helping to usher in the future of virtual storytelling experiences through tabletop rpgs.
 
 ## 🌐 Socials
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Puddinglordx) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Puddinglord) 
